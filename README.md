@@ -19,3 +19,5 @@ The Kicad 6 board I created from the gerber files, the STEP file I exported and 
 One trick to get a nice 1mm reveal on your 3mm LED is to use the case lid to space the face away, drop the led down through the opening until it touches the lid, and then solder it.
 
 ![](docs/led-spacing.jpg)
+
+Also available at [https://www.thingiverse.com/thing:5619356](https://www.thingiverse.com/thing:5619356)
